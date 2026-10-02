@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "zhen.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Zhen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Associate at the MIT Picower Institute for Learning and Memory"
+  location         : "Cambridge, MA"
+  employer         : "MIT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zchen113@mit.edu" 
 
   # Academic websites
   academia         : # URL
